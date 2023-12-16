@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.63e302dc755a5a3fd9b9d8e0fc30172c?rik=sLasA69PFZjoTA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fJgCKjTD.jpg&ehk=hFL8vWeEdymWPOdYwMTitz%2bTX%2fZuJyyt215rgAxJVuk%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    font-family: 'Comic Sans MS', Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    border: 2px solid black;
+    padding: 2px;
+    width: 100%;
+    position: center;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+ h1{
+    text-align: center;
+} 
+ol{
+    background-color: rgb(32, 89, 32);
+}
+.common{
+    position: absolute;
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: rgb(79, 184, 79);
+    color: black;
+}
+.header{
+    top: 0px;
+}
+.mainbody{
+    top: 400px;
+}
